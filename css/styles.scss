@@ -1,0 +1,176 @@
+* {
+	box-sizing: border-box;
+	outline: none;
+}
+
+body, html
+
+{
+    height: 100%;
+}
+
+
+html {
+  font-family: sans-serif /* 1 */;
+  -ms-text-size-adjust: 100% /* 2 */;
+  -webkit-text-size-adjust: 100% /* 2 */;
+  font-family: sans-serif;
+
+}
+
+body {
+	
+  height: 100%;
+  background-color: #efefef;
+  font-family: 'OpenSans', sans-serif;
+  font-size: 14px;
+  line-height: 1.571428571428571;
+  color: #222;
+  overflow-y: scroll;
+
+}
+
+.page {
+	max-width:1200px;
+	margin:0 auto;
+}
+
+.wrap {
+  min-height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.header {
+
+  z-index: 900;
+  box-shadow: 0 0 10px 0 rgba(0,0,0,0.7);
+}
+
+.content {
+  min-height: 100%;
+  overflow: hidden;
+}
+
+.footer {
+  background-color: #fff;
+  margin-top: auto;
+}
+
+.container {
+	zoom: 1;
+width: 100%;
+padding-left: 15px;
+padding-right: 15px;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+}
+
+.container::before,
+.container::after {
+  content: '';
+  display: table;
+}
+.container::after {
+  clear: both;
+}
+
+.header__inner {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  height: 120px;
+}
+
+.slide-big__container {
+  height: 100%;
+}
+
+
+.content-section {
+	margin-top:73px;
+}
+
+.content-section__header {
+	font-family: Proxima Nova;
+line-height: normal;
+font-size: 64px;
+
+color: #3D3D3D;
+}
+
+.content__row {
+	  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.content__article {
+	margin-bottom:63px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+  .container {
+    max-width: 960px;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .container {
+    max-width: 1170px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .header {
+    background-color: #fff;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .header {
+    background-color: #0d858c;
+  }
+}
