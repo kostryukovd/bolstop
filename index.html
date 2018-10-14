@@ -5,6 +5,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link href="css/reset.css" type="text/css"  rel="stylesheet" />
+<link href="css/lpu.css" type="text/css"  rel="stylesheet" />
 <link href="css/styles.css" type="text/css"  rel="stylesheet" />
         <title>БОЛЬСТОП.РФ</title>
 
@@ -173,11 +174,12 @@
 	</div>
 
 	<div class = "content-section page">
-		<div class = "content__link-all">
-			<a href = #>Все истории</a>
-		</div>
+
 		<div class = "content-section__header">
 			<h2>Личный опыт</h2>
+		</div>
+				<div class = "content__link-all">
+			<a href = #>Все истории</a>
 		</div>
 
 			<div class  = "content__row">
@@ -244,11 +246,85 @@
 			<h2>Карта ЛПУ</h2>
 		</div>
 
+			<div class="x-container">
+
+
+        <h1 class="content-title">Карта лечебно-профилактических учреждений</h1>
+        <br />
+
+        <div class="buy_container">
+            <div class="left_block">
+                <div class="buy_search">
+                    <div class="buy_search_top">
+                        <img src="https://www.skincap.ru/theme/images/mark.png" class="mark">
+                        Ваш город:
+                        <a href="#" class="city_choised">
+                            Москва
+                        </a>
+                    </div>
+                </div>
+                <div class="buy_scroll_list">
+
+                        <div id="1" data-text="test"
+                             data-address="Moscow"
+                             data-name="Moscow" data-lat="55.76" data-lng="37.64"
+                             class="buy_scroll_list_item">
+                            <div class="title"><b>Moscow</b></div>
+                            <div class="place">Moscow</div>
+                        </div>
+                    
+<!--
+                    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+-->
+                    <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
+
+                  
+                </div>
+            </div>
+            <div class="modal_city">
+                <div class="wrap">
+                    
+                        <span class="changeCity" id="1" data-id="1">Moscow</span>
+                    
+                </div>
+            </div>
+            <div id="map" class="buy_map"></div>
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 	</div>
+</div>
 
 	<div class = "content-section page">
 
+		<div class  = "content__row">
+
+			<div class = "content__note">
+				<div class = "note__img">
+					<img src = "img/note.svg">
+				</div>
+				<div class = "note__text">
+
+				</div>
+
+
+
+			</div>
+
+
+		</div>
 		
 
 
@@ -281,4 +357,10 @@
 
 
 </div>
+
+
+
+
+<script src = "js/jquery-3.3.1.min.js" type="text/javascript"></script>
+<script src = "js/lpu.js"></script>
 	</body>
