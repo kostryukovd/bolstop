@@ -53,6 +53,7 @@ body {
 
   z-index: 900;
   box-shadow: 0 0 10px 0 rgba(0,0,0,0.7);
+  position:relative;
 }
 
 .content {
@@ -178,7 +179,7 @@ border-radius:2px;
 .header__content__bottom {
   display:flex;
   justify-content:space-between;
-  padding-top:30px;
+  padding-top:26px;
   a {
     text-decoration: none;
 
@@ -304,8 +305,59 @@ border-radius:4px;
   display: flex;
 }
 
+.banner__news {
 
+}
 
+.banner__item {
+  position: relative;
+}
+
+.banner__img {
+  
+}
+
+.banner__content {
+  position:absolute;
+  top:50%;
+  left:30%;
+  margin-top:-45px;
+}
+
+.banner__header {
+  max-width:755px;
+  a {
+  font-family: "proxima_nova";
+line-height: 40px;
+font-size: 30px;
+text-transform: uppercase;
+text-decoration:none;
+color: #FFFFFF;
+font-weight:700;
+}
+}
+
+.banner__link {
+  display:inline-block;
+  a {
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+font-size: 16px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+text-decoration:none;
+}
+border-radius: 2px;
+padding:10px 33px;
+background-color: #098EA6;
+}
+
+.banner__content {
+
+}
 
 @import "_media";
 
