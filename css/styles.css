@@ -117,6 +117,42 @@ body {
   padding-left: 25px;
   max-width: 226px; }
 
+.header__auth {
+  background-color: white;
+  padding: 9px 0;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 15px;
+  border-radius: 2px; }
+  .header__auth a {
+    text-decoration: none;
+    color: #098EA6; }
+
+.auth__login {
+  padding: 3px 37px;
+  border-right: 1px solid #0D858C; }
+
+.auth__register {
+  padding: 3px 32px; }
+
+.header__content__bottom {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px; }
+  .header__content__bottom a {
+    text-decoration: none;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 16px;
+    padding-bottom: 8px;
+    color: #FFFFFF; }
+  .header__content__bottom a:hover {
+    border-bottom: 2px solid white; }
+
 .slide-big__container {
   height: 100%; }
 
