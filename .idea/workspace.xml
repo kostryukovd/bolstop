@@ -2,8 +2,205 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d6e9221-1ea4-4963-a05c-743a433b125f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/assets/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/assets/owl.video.play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/img/bird_blue_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/img/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/img/feature-drag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/img/feature-modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/img/feature-module.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/img/feature-options.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/img/feature-responsive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/img/feature-zombie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/img/owl-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/img/twitter_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.video.play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/img/bird_blue_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/img/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/img/feature-drag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/img/feature-modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/img/feature-module.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/img/feature-options.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/img/feature-responsive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/img/feature-zombie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/img/owl-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/img/twitter_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/releated-docs.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/img/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/img/owl.video.play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/ROADMAP.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/_config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/assets/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/assets/owl.theme.green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/assets/owl.theme.green.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/dist/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/css/docs.theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/js/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/owlcarousel/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/vendors/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/vendors/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/animate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/autoheight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/autoplay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/autowidth.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/center.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/demos.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/lazyLoad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/merge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/mousewheel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/rtl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/stagepadding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/urlhashnav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/demos/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/api-classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/api-events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/api-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/dev-buildin-plugins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/dev-external.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/dev-plugin-api.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/dev-styles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/started-faq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/started-installation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/started-welcome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/support-changelog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/support-contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/docs/support-contributing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/js/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/scss/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/scss/custom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/scss/demos.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/scss/docs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/scss/docs.theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/scss/highlight.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/vendors/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/vendors/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/data/classes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/data/events.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/data/features.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/data/options.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/helpers/modulo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/helpers/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/layouts/demos.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/layouts/docs.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/layouts/home.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/animate.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoheight.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoplay.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autowidth.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/basic.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/center.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/demos.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/events.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/lazyLoad.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/merge.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/mousewheel.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/responsive.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/rtl.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/stagepadding.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/test.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/urlhashnav.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/video.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-classes.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-events.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-options.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-external.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-plugin-api.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-styles.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-faq.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-installation.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-welcome.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-changelog.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contact.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contributing.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/pages/index.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/footer.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/head.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/header.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/home-carousel.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/home-features.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/home-hero.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/home-teaser-text.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/javascripts.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/sidenav-docs.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/title.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/docs_src/templates/partials/vendors.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.autoheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.autoplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.autorefresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.hash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.lazyload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.support.modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/js/owl.video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/scss/_animate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/scss/_autoheight.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/scss/_lazyload.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/scss/_theme.default.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/scss/_theme.green.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/scss/_theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/scss/_video.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/scss/owl.carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/scss/owl.theme.default.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/src/scss/owl.theme.green.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/test/unit/autoplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OwlCarousel2-2.3.4/test/unit/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.theme.default.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/_variables.scss" afterPath="$PROJECT_DIR$/css/_variables.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css.map" afterPath="$PROJECT_DIR$/css/styles.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.scss" afterPath="$PROJECT_DIR$/css/styles.scss" />
@@ -17,114 +214,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4102761">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#14361#14368#0" expanded="true" />
-                    <element signature="e#14389#14396#0" expanded="true" />
-                    <element signature="e#14434#14440#0" expanded="true" />
-                    <element signature="e#14463#14469#0" expanded="true" />
-                    <element signature="e#14492#14499#0" expanded="true" />
-                    <element signature="e#14509#14516#0" expanded="true" />
-                    <element signature="e#14589#14595#0" expanded="true" />
-                    <marker date="1539619870558" expanded="true" signature="6593:6664" ph="..." />
-                    <marker date="1539619870558" expanded="true" signature="8720:8800" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="styles.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css/styles.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="327">
-                  <caret line="371" column="2" lean-forward="false" selection-start-line="371" selection-start-column="2" selection-end-line="371" selection-end-column="2" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/_variables.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="true" current-in-tab="false">
-            <entry file="remoteDeploymentFS://&lt;0c76ed06-8177-4d1c-9a88-d6e4111cdb9a&gt;/testProjects/public_html/skolkovo-arenda/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="166">
-                  <caret line="242" column="40" lean-forward="false" selection-start-line="242" selection-start-column="36" selection-end-line="242" selection-end-column="40" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index_arenda.php" pinned="true" current-in-tab="false">
-            <entry file="remoteDeploymentFS://&lt;0c76ed06-8177-4d1c-9a88-d6e4111cdb9a&gt;/testProjects/public_html/skolkovo_email/index_arenda.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="28" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="lpu.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/lechebnye-uchrezhdeniya/lpu.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="101">
-                  <caret line="256" column="6" lean-forward="false" selection-start-line="256" selection-start-column="6" selection-end-line="256" selection-end-column="6" />
-                  <folding>
-                    <element signature="e#14361#14368#0" expanded="true" />
-                    <element signature="e#14389#14396#0" expanded="true" />
-                    <element signature="e#14434#14440#0" expanded="true" />
-                    <element signature="e#14463#14469#0" expanded="true" />
-                    <element signature="e#14492#14499#0" expanded="true" />
-                    <element signature="e#14509#14516#0" expanded="true" />
-                    <element signature="e#14589#14595#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3857">
+              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="192" selection-end-column="6" />
+              <folding>
+                <element signature="e#14361#14368#0" expanded="true" />
+                <element signature="e#14389#14396#0" expanded="true" />
+                <element signature="e#14434#14440#0" expanded="true" />
+                <element signature="e#14463#14469#0" expanded="true" />
+                <element signature="e#14492#14499#0" expanded="true" />
+                <element signature="e#14509#14516#0" expanded="true" />
+                <element signature="e#14589#14595#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="419" column="0" lean-forward="true" selection-start-line="419" selection-start-column="0" selection-end-line="419" selection-end-column="0" />
+              <folding>
+                <marker date="1539620303983" expanded="true" signature="220:335" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -139,10 +260,13 @@
       <find>64px</find>
       <find>article__header</find>
       <find>то тако</find>
-      <find>form</find>
       <find>content__article</find>
       <find>content__link-all</find>
+      <find>article__text</find>
+      <find>form</find>
       <find>еще</find>
+      <find>head</find>
+      <find>Про паллиативную помощь</find>
     </findStrings>
     <dirStrings>
       <dir>D:\OpenServer\OSPanel\domains\bolstop\css</dir>
@@ -161,8 +285,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="&lt;0c76ed06-8177-4d1c-9a88-d6e4111cdb9a&gt;/testProjects/public_html/skolkovo_email/index_arenda.php" />
         <option value="$PROJECT_DIR$/css/_variables.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -207,6 +331,11 @@
             <path>
               <item name="bolstop" type="b2602c69:ProjectViewProjectNode" />
               <item name="bolstop" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bolstop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bolstop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="bolstop" type="b2602c69:ProjectViewProjectNode" />
@@ -274,12 +403,12 @@
       <updated>1539589188146</updated>
       <workItem from="1539589189498" duration="209000" />
       <workItem from="1539597641540" duration="448000" />
-      <workItem from="1539601636804" duration="11057000" />
+      <workItem from="1539601636804" duration="12344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11714000" />
+    <option name="totallyTimeSpent" value="13001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1050" extended-state="6" />
@@ -293,7 +422,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24835886" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -328,8 +457,6 @@
             <element signature="e#14492#14499#0" expanded="true" />
             <element signature="e#14509#14516#0" expanded="true" />
             <element signature="e#14589#14595#0" expanded="true" />
-            <marker date="1539619870558" expanded="true" signature="6593:6664" ph="..." />
-            <marker date="1539619870558" expanded="true" signature="8720:8800" ph="..." />
           </folding>
         </state>
       </provider>
@@ -354,8 +481,6 @@
             <element signature="e#14492#14499#0" expanded="true" />
             <element signature="e#14509#14516#0" expanded="true" />
             <element signature="e#14589#14595#0" expanded="true" />
-            <marker date="1539619870558" expanded="true" signature="6593:6664" ph="..." />
-            <marker date="1539619870558" expanded="true" signature="8720:8800" ph="..." />
           </folding>
         </state>
       </provider>
@@ -466,7 +591,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -479,10 +604,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="419" column="0" lean-forward="true" selection-start-line="419" selection-start-column="0" selection-end-line="419" selection-end-column="0" />
+          <folding>
+            <marker date="1539620303983" expanded="true" signature="220:335" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="-3857">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="192" selection-end-column="6" />
           <folding>
             <element signature="e#14361#14368#0" expanded="true" />
             <element signature="e#14389#14396#0" expanded="true" />
@@ -491,17 +626,7 @@
             <element signature="e#14492#14499#0" expanded="true" />
             <element signature="e#14509#14516#0" expanded="true" />
             <element signature="e#14589#14595#0" expanded="true" />
-            <marker date="1539619870558" expanded="true" signature="6593:6664" ph="..." />
-            <marker date="1539619870558" expanded="true" signature="8720:8800" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="371" column="2" lean-forward="false" selection-start-line="371" selection-start-column="2" selection-end-line="371" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
