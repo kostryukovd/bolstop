@@ -188,7 +188,9 @@ body {
   justify-content: space-between; }
 
 .content__article {
-  margin-bottom: 63px; }
+  width: 30.333333%;
+  margin-bottom: 63px;
+  margin-right: 3%; }
 
 .content__note {
   display: -webkit-box;
@@ -287,6 +289,43 @@ body {
     letter-spacing: 0.02em;
     color: #FFFFFF;
     text-decoration: none; }
+
+.brand-link {
+  color: #098EA6;
+  text-decoration: underline;
+  font-size: 18px;
+  text-decoration-line: underline; }
+  .brand-link:hover {
+    color: #3FC6DE; }
+
+.article__header {
+  color: #098EA6;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 40px;
+  font-size: 18px; }
+
+.article__link {
+  text-decoration: none;
+  display: block; }
+  .article__link:hover {
+    text-decoration: none;
+    cursor: pointer; }
+
+.article__text {
+  color: #222222;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 22px; }
+
+.article__more {
+  color: #098EA6;
+  font-weight: 700; }
+  .article__more:hover {
+    color: #3FC6DE; }
+
+.article__link-more {
+  text-align: right; }
 
 @media only screen and (max-width: 767px) {
   .footer {
