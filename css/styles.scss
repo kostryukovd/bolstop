@@ -1,3 +1,6 @@
+$bol-green: #0D858C;
+
+
 * {
 	box-sizing: border-box;
 	outline: none;
@@ -25,7 +28,7 @@ body {
   font-family: 'OpenSans', sans-serif;
   font-size: 14px;
   line-height: 1.571428571428571;
-  color: #222;
+  color: ##EFEFEF;
   overflow-y: scroll;
 
 }
@@ -128,8 +131,23 @@ color: #3D3D3D;
 
 
 
+.content__note {
+      display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 
+max-width:588px;
+border-radius:4px;
+}
 
+.note__img {
+  background-color:$bol-green;
+  padding:52px 46px 51px 46px;
+}
+
+.note__content {
+  background-color:white;
+}
 
 
 

@@ -72,6 +72,9 @@ body {
   justify-content: space-between;
   height: 120px; }
 
+.header__logo {
+  background-color: white; }
+
 .slide-big__container {
   height: 100%; }
 
@@ -94,6 +97,20 @@ body {
 
 .content__article {
   margin-bottom: 63px; }
+
+.content__note {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 588px;
+  border-radius: 4px; }
+
+.note__img {
+  background-color: #0D858C;
+  padding: 52px 46px 51px 46px; }
+
+.note__content {
+  background-color: white; }
 
 @media only screen and (min-width: 768px) and (max-width: 1199px) {
   .container {
